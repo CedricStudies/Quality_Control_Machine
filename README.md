@@ -1,3 +1,5 @@
+<img width="1200" height="900" alt="Image1_OverallView" src="https://github.com/user-attachments/assets/cac40bcb-4554-4a2b-9396-64f1ed811bed" />
+
 # Quality Control Machine
 
 As part of my Year 1 tertiary studies, I had to develop a smart quality control solution using Arduino, PyCharm, AADFramework, and Arduino UNO. The project focused on detecting defects like dents in manufacturing products. Over three weeks, dedicating 3 hours weekly, I created a prototype that uses an IR sensor to detect irregularities in product shape and size, triggering a barrier to halt damaged products for manual removal.
